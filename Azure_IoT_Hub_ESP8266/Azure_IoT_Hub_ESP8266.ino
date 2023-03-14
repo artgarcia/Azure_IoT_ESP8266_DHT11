@@ -85,7 +85,7 @@ DHT dht(DHTPIN, DHTTYPE);
 // for geo location based on WiFi connection
 #include <Arduino.h>
 #include <WifiLocation.h>
-const char* googleApiKey = "AIzaSyCTB4GdApZjaZkJ1N0EJI-Vqqx-cV4M2DE";
+const char* googleApiKey = "";
 
 
 // support functions in seperate file for ease of maintaince 
